@@ -1,3 +1,5 @@
+/* Part 1 */
+
 git config --global user.name "yanq6"
 
 git config --global user.email "mark.yan@roche.com"
@@ -42,3 +44,9 @@ git commit -a -m "msg"
 git log --oneline 
 
 git status -s # save screen space.  
+
+/* Part 2 */
+
+ssh-keygen -t rsa -C "yan.marky@gmail.com"     #0000 
+
+ssh -T git@github.com
