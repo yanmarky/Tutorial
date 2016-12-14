@@ -10,7 +10,7 @@ git status
 
 git add .
 
-git rm --cached test.txt
+git rm --cached test.txt  (--cach for the staging area)
 
 git commit -m "initial commit" 
 
@@ -27,3 +27,9 @@ git status
 git add .
 
 git commit -m "Made changes to both files" 
+
+git diff
+
+git add test.txt
+
+git diff --chached
