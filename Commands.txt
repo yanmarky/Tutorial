@@ -21,3 +21,9 @@ git status
 git add test.txt
 
 git status
+
+(make changes to test.txt)
+
+git add .
+
+git commit -m "Made changes to both files" 
