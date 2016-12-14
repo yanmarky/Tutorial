@@ -33,3 +33,12 @@ git diff
 git add test.txt
 
 git diff --chached
+
+(shift+Z+Z to exit text editor)
+
+# Short cuts # 
+git commit -a -m "msg" 
+
+git log --oneline 
+
+git status -s # save screen space.  
