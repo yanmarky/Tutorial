@@ -1,0 +1,9 @@
+git config --global user.name "yanq6"
+
+git config --global user.email "mark.yan@roche.com"
+
+git init Tutorial
+
+cd Tutorial
+
+git status
