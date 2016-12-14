@@ -15,3 +15,9 @@ git rm --cached test.txt
 git commit -m "initial commit" 
 
 git log
+
+git status
+
+git add test.txt
+
+git status
